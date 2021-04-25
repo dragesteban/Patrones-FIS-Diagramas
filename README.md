@@ -21,3 +21,17 @@
 ## Diagrama de secuencia
 
 ![Secuencia](https://github.com/dragesteban/Patrones-FIS-Diagramas/blob/main/Diagramas%20Factory%20Method/Diagrama%20de%20secuencia%20Factory%20Method.png)
+
+# Diagramas Singleton
+
+## Diagrama de clases
+
+![Clases](https://github.com/dragesteban/Patrones-FIS-Diagramas/blob/main/DiagramasSingleton/Diagrama%20De%20Clases%20Singleton.png)
+
+## Diagrama de casos de uso
+
+![Casos de uso](https://github.com/dragesteban/Patrones-FIS-Diagramas/blob/main/DiagramasSingleton/Diagrama%20Casos%20De%20uso%20Singleotn.png)
+
+## Diagrama de secuencia
+
+![Secuencia](https://github.com/dragesteban/Patrones-FIS-Diagramas/blob/main/DiagramasSingleton/Diagrama%20De%20Secuencia%20Singleton.png)
